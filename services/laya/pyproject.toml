@@ -1,0 +1,9 @@
+[project]
+name = "vigilancai-laya"
+version = "1.0.0"
+description = "Laya decision service for the Vigilancai monitoring pipeline"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]>=0.115",
+    "laya>=0.3.6",
+]
