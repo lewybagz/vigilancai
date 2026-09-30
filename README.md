@@ -11,6 +11,8 @@ One screen, every morning: what changed at the jurisdictions, suppliers, manufac
 
 Next.js 15 (App Router) · TypeScript · Tailwind v4 · Supabase (Postgres, RLS, Auth) · Anthropic SDK · Resend · Stripe · a small FastAPI sidecar for Laya (`services/laya`).
 
+See **docs/SETUP.md** for click-by-click instructions for every dashboard (Supabase, Anthropic, Laya on Railway, Resend, Stripe, Vercel).
+
 ## Local setup
 
 1. **Install**
